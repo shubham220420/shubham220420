@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Rakheja</h1>
 <h3 align="center">Coding my way to a better future | Open Source Contributor & Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham220420&label=Profile%20views&color=0e75b6&style=flat" alt="shubham220420" /> </p>
 
 - 🔭 I’m currently working on [PitchSpark](https://pitch-spark-delta.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [Shubhamrakheja.online](Shubhamrakheja.online)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://shubhamrakheja.online/)
 
 - 📫 How to reach me **b4mshubham@gmail.com**
 
